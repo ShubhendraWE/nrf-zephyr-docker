@@ -1,0 +1,12 @@
+{
+  "name": "Zephyr NCS Dev",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "context": "..",
+  "workspaceFolder": "/workdir/project",
+  "settings": {},
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workdir/project,type=bind"
+  ]
+}

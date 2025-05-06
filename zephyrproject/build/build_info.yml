@@ -1,0 +1,4 @@
+west:
+  command: /usr/local/bin/west build -b nrf54l15pdk app
+  topdir: /workdir/project/zephyrproject
+  version: 1.3.0
