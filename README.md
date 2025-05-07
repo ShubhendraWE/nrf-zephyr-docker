@@ -36,6 +36,12 @@ This mounts your current directory into the container at `/workdir/project`.
 
 ---
 
+### 3. Initialize the Environment
+Once inside the container, run the following command to initialize the environment:
+```bash
+bash init.sh
+```
+
 ## 📁 Project Directory Structure
 
 Inside the container, navigate to your app directory:
