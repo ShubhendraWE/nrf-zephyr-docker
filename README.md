@@ -1,4 +1,4 @@
-# Custom Nordic SDK Docker Environment
+# Nordic SDK Docker Environment
 ![Made with VSCode](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
 This repository provides a Docker-based development environment for building Zephyr-based applications for Nordic Semiconductor's nRF54 series (e.g., `nrf54l15dk/nrf54l15/cpuapp`).
